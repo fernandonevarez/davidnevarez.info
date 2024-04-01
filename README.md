@@ -13,7 +13,7 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 
 ```sh-session
 git clone https://github.com/fernandonevarez/davidnevarez.info.git
-cd chronark.com
+cd davidnevarez.info
 ```
 
 Create a `.env` file similar to [`.env.example`](https://github.com/chronark/chronark.com/blob/main/.env.example).
