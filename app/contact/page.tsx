@@ -1,8 +1,8 @@
 'use client';
 import { Github, Mail, Instagram } from 'lucide-react';
 import Link from 'next/link';
-import { Navigation } from '../components/nav';
-import { Card } from '../components/card';
+import { Navigation } from '@/app/components/nav';
+import { Card } from '@/app/components/card';
 
 const socials = [
   {
@@ -46,7 +46,7 @@ export default function Example() {
                   {s.icon}
                 </span>{' '}
                 <div className='z-10 flex flex-col items-center'>
-                  <span className='lg:text-xl font-medium duration-150 xl:text-3xl text-zinc-200 group-hover:text-white font-display'>
+                  <span className='lg:text-lg font-medium duration-150 xl:text-2xl text-zinc-200 group-hover:text-white font-display'>
                     {s.handle}
                   </span>
                   <span className='mt-4 text-sm text-center duration-1000 text-zinc-400 group-hover:text-zinc-200'>

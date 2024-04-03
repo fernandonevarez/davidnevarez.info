@@ -9,5 +9,6 @@ import projects__gopherphoenixComMdx from './projects__gopherphoenix.com.mdx.jso
 import projects__learnCodedevilsOrgMdx from './projects__learn.codedevils.org.mdx.json' assert { type: 'json' }
 import projects__notionCloneMdx from './projects__notion-clone.mdx.json' assert { type: 'json' }
 import projects__wpcareyAsuEduMdx from './projects__wpcarey.asu.edu.mdx.json' assert { type: 'json' }
+import projects__clipsMdx from './projects__clips.mdx.json' assert { type: 'json' }
 
-export const allProjects = [projects__appleMusicDiscordRichPresenceMdx, projects__codedevilsOrgMdx, projects__davidnevarezInfoMdx, projects__discordCloneMdx, projects__docsCodedevilsOrgMdx, projects__gopherphoenixComMdx, projects__learnCodedevilsOrgMdx, projects__notionCloneMdx, projects__wpcareyAsuEduMdx]
+export const allProjects = [projects__appleMusicDiscordRichPresenceMdx, projects__codedevilsOrgMdx, projects__davidnevarezInfoMdx, projects__discordCloneMdx, projects__docsCodedevilsOrgMdx, projects__gopherphoenixComMdx, projects__learnCodedevilsOrgMdx, projects__notionCloneMdx, projects__wpcareyAsuEduMdx, projects__clipsMdx]
