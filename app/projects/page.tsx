@@ -24,7 +24,7 @@ export default async function ProjectsPage() {
     (project) => project.slug === 'codedevils.org'
   )!;
   const top2 = allProjects.find(
-    (project) => project.slug === 'learn.codedevils.org'
+    (project) => project.slug === 'academy.codedevils.org'
   )!;
   const top3 = allProjects.find(
     (project) => project.slug === 'wpcarey.asu.edu'
