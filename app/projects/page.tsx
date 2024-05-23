@@ -21,10 +21,10 @@ export default async function ProjectsPage() {
   }, {} as Record<string, number>);
 
   const featured = allProjects.find(
-    (project) => project.slug === 'codedevils.org'
+    (project) => project.slug === 'codedevils.io'
   )!;
   const top2 = allProjects.find(
-    (project) => project.slug === 'academy.codedevils.org'
+    (project) => project.slug === 'academy.codedevils.io'
   )!;
   const top3 = allProjects.find(
     (project) => project.slug === 'wpcarey.asu.edu'
