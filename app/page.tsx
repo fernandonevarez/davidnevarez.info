@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import Particles from '@/app/components/particles';
+import Particles from '@/components/particles';
 
 const navigation = [
   { name: 'Projects', href: '/projects' },
