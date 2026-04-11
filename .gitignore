@@ -36,7 +36,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.contentlayer/*/**
-
-.contentlayer/generated/project/**/*
-.contentlayer/generated/project/*/**
+/.contentlayer/
